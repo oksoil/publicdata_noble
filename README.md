@@ -1,6 +1,6 @@
 ## Dataset and scripts to facilitate reproducible research 
 
-
+Citations
 - Dhakal, K., Seethepalli, A., Griffiths, M., Guo, H., Freschet, G. T., and York, L. M. (2021). Data and statistical code for the manuscript on RhizoVision Explorer for root image analysis [Data set]. Zenodo. DOI: 10.5281/zenodo.4677552
 
 - Dhakal, K., Seethepalli, A., Griffiths, M., Guo, H., Freschet, G. T., and York, L. M. (2021). Images of copper wires with various diameters for validating root image analysis [Data set]. Zenodo. DOI: 10.5281/zenodo.4677545
